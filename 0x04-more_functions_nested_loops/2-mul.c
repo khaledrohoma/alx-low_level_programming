@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isdigit - digits
+ * mul - multiply the inputs
  * a , b : the input integers
  * Return: multiplication of 2 integers
  */
